@@ -1,8 +1,8 @@
 ---
     layout: post
-    title: "New blog"
-    category: "Blog"
-    tags: ["New Blog Smell",Java,Bukkit,Coding,"Food?",modding,MCP]
+    title: "My first post"
+    category: Blog
+    tags: ["New Blog Smell", Java, Bukkit, Coding, "Food?", modding, MCP]
     tagline: "Complete with that new blog smell!"
 ---
 {% include JB/setup %}
