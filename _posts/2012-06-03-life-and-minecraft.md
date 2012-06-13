@@ -2,7 +2,7 @@
     layout: post
     title: "Life and Minecraft"
     category: Life
-    tags: [Minecraft, Terris, work, Bukkit, plugins, "'New Blog Smell' still smells good"]
+    tags: [Minecraft, Terris, Work, Bukkit, Plugins, "'New Blog Smell' still smells good"]
     tagline: "Or why I'm not working much."
 ---
 {% include JB/setup %}
